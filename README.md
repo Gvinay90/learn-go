@@ -17,12 +17,25 @@ Deployed on Vercel: [https://learn-go-gvinay90.vercel.app](https://learn-go-gvin
 
 ## Getting Started
 
+**Prerequisites:** Node.js 18+
+
 ```bash
+# Install dependencies
 npm install
+
+# Start the dev server
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+```bash
+# Build for production
+npm run build
+
+# Run production build locally
+npm start
+```
 
 ## Tech Stack
 
